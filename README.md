@@ -1,0 +1,1 @@
+The first project of the Webmaster Course from Danki Code, which consists of a basic landing page made up by HTML and CSS.
